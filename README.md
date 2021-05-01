@@ -4,6 +4,8 @@
 ### Install the required libs. To do so run
 pip install -r requirements.txt
 
+To run the project locally use the command \
+__flask run__
 ### Usage
 > __To retrieve entire data__ \
 __url__  /employees\
