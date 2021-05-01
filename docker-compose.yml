@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  sys-employees:
+    build: .
+    restart: always
+    container_name: sys-employees
+    command: gunicorn -c "python:config.gunicorn" --reload "api.app:app"
+    env_file:
+      - '.env'
+    ports:
+      - '9000:9000'
+    volumes:
+    - '.:/sys-employees'
