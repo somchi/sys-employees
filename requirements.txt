@@ -1,0 +1,10 @@
+Flask==1.1.1
+python-decouple==3.3
+python-dotenv==0.10.5
+flask-marshmallow==0.10.1
+flask_Cors==3.0.8
+flask-JWT-extended==3.24.1
+Flask-RESTful==0.3.7
+flask-Bcrypt==0.7.1
+pytest==6.2.0
+flask-apispec==0.11.0

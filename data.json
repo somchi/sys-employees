@@ -1,0 +1,23 @@
+[
+    {
+        "employee_id": "E00001",
+        "first_name": "Henry",
+        "last_name": "Keynes",
+        "age": "29",
+        "join_date": "2021-01-15"
+    },
+    {
+        "employee_id": "E00002",
+        "first_name": "John",
+        "last_name": "Keynes",
+        "age": "29",
+        "join_date": "2021-01-15"
+    },
+    {
+        "employee_id": "E00003",
+        "first_name": "John",
+        "last_name": "Keynes",
+        "age": "29",
+        "join_date": "2021-01-15"
+    }
+]
